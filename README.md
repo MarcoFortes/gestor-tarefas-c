@@ -41,7 +41,7 @@ A base do projeto é o TAD [Lista Encadeada Simples], sendo cada elemento da lis
 ## 👨‍💻 Equipe de desenvolvimento
 
 - [Marco Fortes](https://github.com/MarcoFortes)
-- [Liedson Delgado](https://github.com/DarkFZ)
-- [Igor Fortes](https://github.com/LiedsonDelgado)
+- [Liedson Delgado](https://github.com/LiedsonDelgado)
+- [Igor Fortes](https://github.com/DarkFZ)
 - [Tiago Dongo](https://github.com/TiagoDongo)
 
