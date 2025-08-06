@@ -7,8 +7,10 @@ Este projeto consiste no desenvolvimento de uma aplicação simples de gestão d
 Criar um sistema funcional que permita ao cliente:
 - Adicionar novas tarefas
 - Listar todas as tarefas
+- Filtrar as tarefas por prioridade
 - Marcar tarefas como concluídas
 - Remover tarefas
+- Editar tarefa
 - Buscar tarefas por nome ou ID
 
 ## 🧱 Estrutura de Dados
@@ -19,12 +21,15 @@ A base do projeto é o TAD [Lista Encadeada Simples], sendo cada elemento da lis
 - `Nome da tarefa` (string)
 - `Descrição` (string)
 - `Duração` (int, (em minutos))
-- `Prioridade` (b = baixa, m = media, a = alta)
+- `Prioridade` (high = 2, medium = 1, low = 0)
 
 ## 🚀 Funcionalidades a serem implementadas
 
 - [ ] Adicionar tarefa
-- [ ] Listar tarefas
+  - [x] No inico
+  - [ ] No final
+  - [ ] Numa determinada posição
+- [x] Listar tarefas
 - [ ] Marcar como concluída
 - [ ] Remover tarefa
 - [ ] Buscar por ID
