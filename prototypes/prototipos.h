@@ -1,6 +1,5 @@
 #ifndef PROTOTIPOS_H
 #define PROTOTIPOS_H
-#include "../Fila de Clientes/includes.h"
 
 // modelo para tarefa
 typedef struct Tarefa{

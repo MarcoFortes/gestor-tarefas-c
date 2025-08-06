@@ -1,6 +1,5 @@
 #ifndef FUNCIONALIDADES_H
 #define FUNCIONALIDADES_H
-#include "../Fila de Clientes/includes.h"
 
 // funcionalidades
 
